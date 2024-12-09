@@ -1,0 +1,2 @@
+c denies 250 2
+python guido 500 1
